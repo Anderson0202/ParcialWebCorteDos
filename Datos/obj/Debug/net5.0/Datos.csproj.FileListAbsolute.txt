@@ -1,0 +1,15 @@
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Datos\bin\Debug\net5.0\Datos.deps.json
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Datos\bin\Debug\net5.0\Datos.dll
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Datos\bin\Debug\net5.0\ref\Datos.dll
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Datos\bin\Debug\net5.0\Datos.pdb
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Datos\bin\Debug\net5.0\Entidad.dll
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Datos\bin\Debug\net5.0\Entidad.pdb
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Datos\obj\Debug\net5.0\Datos.csproj.AssemblyReference.cache
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Datos\obj\Debug\net5.0\Datos.csproj.CopyComplete
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Datos\obj\Debug\net5.0\Datos.dll
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Datos\obj\Debug\net5.0\ref\Datos.dll
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Datos\obj\Debug\net5.0\Datos.pdb

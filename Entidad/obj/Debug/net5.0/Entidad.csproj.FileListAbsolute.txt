@@ -1,0 +1,12 @@
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Entidad\bin\Debug\net5.0\Entidad.deps.json
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Entidad\bin\Debug\net5.0\Entidad.dll
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Entidad\bin\Debug\net5.0\ref\Entidad.dll
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Entidad\bin\Debug\net5.0\Entidad.pdb
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Entidad\obj\Debug\net5.0\Entidad.csproj.AssemblyReference.cache
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Entidad\obj\Debug\net5.0\Entidad.dll
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Entidad\obj\Debug\net5.0\ref\Entidad.dll
+D:\Descargas\Programas\Programacion Web\2do Corte\Parcial\Entidad\obj\Debug\net5.0\Entidad.pdb
